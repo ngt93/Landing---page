@@ -1,0 +1,22 @@
+main {
+  width: 100%;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+.video-ori {
+  width: 50%;
+  margin: 4em auto;
+}
+article {
+  width: 100%;
+}
+
+.container-fluid {
+  max-width: 90%;
+  margin-left: 20em;
+}
+.col-sm-4 {
+  padding-left: 5em;
+}
